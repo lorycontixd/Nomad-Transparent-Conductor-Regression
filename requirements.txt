@@ -1,0 +1,6 @@
+tensorflow
+pandas
+notebook
+pyarrow
+matplotlib
+seaborn

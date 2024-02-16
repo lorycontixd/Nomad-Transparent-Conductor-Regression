@@ -4,3 +4,5 @@ notebook
 pyarrow
 matplotlib
 seaborn
+scikit-learn
+plotly
